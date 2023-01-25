@@ -26,7 +26,7 @@ They will use .push to add new songs to their playlist. Then, students will refa
 
 ## JavaScript: Storing Song Data
 
-7. [ ] Create and populate an array to store your image urls. Create three more arrays. One to store your song names, one for the artists, and a last one for the song links.
+7. [x] Create and populate an array to store your image urls. Create three more arrays. One to store your song names, one for the artists, and a last one for the song links.
 
 
 ## JavaScript: Loop and Display Data
